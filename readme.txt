@@ -1,3 +1,12 @@
+This is my (Impulsive-Duc)'s fork of SdFat to support UECIDE, PIC32, and ChipKit
+along with minor bugfixes. The author of SdFat does not plan on merging
+these changes with the main library, so please use this for PIC32 support.
+
+I do not have plans to further maintan this library, so please note the
+minor changes I made and apply them to future revisions of SdFat.
+
+============================================================================
+
 This is a major rewrite of core FAT code so bugs and compatibility
 problems are likely.  
 
